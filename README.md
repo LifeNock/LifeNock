@@ -11,7 +11,7 @@
 <p align="center"><img src="assets/h_stack.png" height="40" alt="my stack" /></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,lua,py,js,ts,java,html,css,nodejs,react,nextjs,dotnet,postgres,redis,unity,wasm,git,github&perline=10" width="720" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,lua,java,py,js,ts,html,css,nodejs,react,nextjs,postgres,redis,unity,wasm,git,github&perline=9" width="680" alt="stack" />
 </p>
 
 <p align="center"><img src="assets/h_whatido.png" height="40" alt="what i do" /></p>
@@ -42,9 +42,4 @@ most things i do arent posted to github, but ill try to get to it more often!
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=LifeNock&theme=dark&hide_border=true&background=0D1117" height="165" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LifeNock&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=e6edf3&count_private=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LifeNock&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=8" height="165" alt="top langs" />
 </p>
